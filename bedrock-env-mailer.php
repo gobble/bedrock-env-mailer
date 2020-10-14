@@ -15,6 +15,8 @@
  * Author URI: https://github.com/hackur
  * Text Domain: bedrock-env-mailer
  */
+ 
+use function Env\env;
 
 defined( 'ABSPATH' ) or die( 'This file cannot be visited directly.' );
 
